@@ -1,7 +1,7 @@
-function skillMember() {
-    return  {
-        name: 'John',
-        age: 25,
-        skill: 'React'
-    }
+function skillsMember() {
+  return {
+    name: 'John Doe',
+    age: 30,
+    skills: ['JavaScript', 'React', 'Node'],
+  };
 }
